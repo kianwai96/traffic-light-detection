@@ -1,0 +1,7 @@
+path: C:\\Users\\WongKianWai\\OneDrive - Geoactive Limited\\Desktop\\Traffic Light Detection # dataset root dir
+train: train/images # train images (relative to 'path')
+val: valid/images # val images (relative to 'path')
+test: test/images
+
+nc: 4
+names: ['Green', 'Red', 'Traffic-light-colour', 'Yellow']
